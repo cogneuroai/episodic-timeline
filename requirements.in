@@ -1,4 +1,8 @@
 einops
+ipywidgets
+jupyter
 matplotlib
 numpy
 torch
+open_clip_torch
+opencv-python
